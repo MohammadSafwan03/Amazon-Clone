@@ -27,14 +27,14 @@
 
 }
 .product-picture {
-    width: 65%;
+    width: 52%;
 }
 .product-picture img {
     border-radius: 150px;
     box-shadow: 0px 0px 10px rgba(66, 66, 66, 0.1);
 }
 .product-detail-body{
-    width: 35%;
+    width: 48%;
 }
 .product-detail-body .product-title{
     font-size: 25px;
